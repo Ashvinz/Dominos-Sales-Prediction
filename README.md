@@ -32,7 +32,7 @@ It analyzes historical sales data to uncover patterns, trends, and seasonality t
 - **Time Series & Forecasting:** `pmdarima`, `statsmodels`, `prophet`  
 - **Deep Learning:** `TensorFlow`, `Keras`  
 - **Machine Learning & Preprocessing:** `scikit-learn`  
-- **Visualization & EDA:** `matplotlib`, `seaborn`, `pandas`  
+- **Visualization & EDA:** `matplotlib`, `seaborn`, `pandas`, `numpy`
 
 ---
 
